@@ -453,8 +453,8 @@
     <access>Native</access>
     <database>${dbname}</database>
     <port>10000</port>
-    <username>weirenjie</username>
-    <password>Encrypted 2be98afc86aa7a78aa208a27f8fcbf782</password>
+    <username>username</username>
+    <password></password>
     <servername/>
     <data_tablespace/>
     <index_tablespace/>
